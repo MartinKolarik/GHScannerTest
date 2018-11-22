@@ -1,1 +1,8 @@
+//full
 https://rawgit.com/TheCherno/Hazel/fabfa7f75020b02a5a71bc4311c7d938a075e472/Hazel/src/Hazel.h
+//prefix
+https://rawgit.com/TheCherno/Hazel/fabfa7f750/Hazel/src/Hazel.h
+//branch
+https://rawgit.com/TheCherno/Hazel/master/Hazel/src/Hazel.h
+//tag
+https://rawgit.com/octokit/rest.js/v15.16.0/README.md
