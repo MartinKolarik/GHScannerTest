@@ -1,0 +1,1 @@
+https://rawgit.com/TheCherno/Hazel/fabfa7f75020b02a5a71bc4311c7d938a075e472/Hazel/src/Hazel.h
